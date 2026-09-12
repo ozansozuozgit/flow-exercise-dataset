@@ -1,0 +1,28 @@
+{
+  "exerciseId": "3293",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/3293-archer-pull-up.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/3293/frame-00.svg",
+      "sha256": "bc3dc54ed9ce35269cfb4d237329c2ef2fda43e3f26776cd82b3a015acb00391",
+      "sourceMasterSha256": "96b014dbe2f403a1f841c8a6b669cfe9e2a2e3c0cf05b64785441d83ed8fd55f"
+    },
+    {
+      "path": "assets/3293/frame-01.svg",
+      "sha256": "9591ba40fd2822fd2271d80c8066e55bc884851e0fc67cf74425513e97f08a8d",
+      "sourceMasterSha256": "1355156842ac1a3e92baf22bf7ddb8b1c9442056c1f9687989be163eaacf1ee9"
+    },
+    {
+      "path": "assets/3293/frame-02.svg",
+      "sha256": "56c8b674c6cef627af17d8d7e6478f519ed5d69abede93a2f2fd89d66585b057",
+      "sourceMasterSha256": "511fdacfa304800eb8eccfe405ce05dde4340d9fc067e2c5c24413e5e94078bb"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "exerciseId": "0002",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/0002-45-degree-side-bend.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/0002/frame-00.svg",
+      "sha256": "5968ab47fee89116006df8b4f3ea8fc0c2ddfacb84f040bde4573147df0943f2",
+      "sourceMasterSha256": "412c0a920c68b73813ce63f0d9d3dd49a11272c0b2ff6b8883c305bb1255b43a"
+    },
+    {
+      "path": "assets/0002/frame-01.svg",
+      "sha256": "75abb5d921d77a4dd879c17f67c06ad2aae5512287cb799c40ce127c4b76f251",
+      "sourceMasterSha256": "9afb7fec611d39e80386f1dc7ec9345bee1e6a47ef8787da3ec12cacc2271abd"
+    },
+    {
+      "path": "assets/0002/frame-02.svg",
+      "sha256": "68b814fce09afbc026c54adb7e8b60809e7b393a386fd6063208ff8ec2538b01",
+      "sourceMasterSha256": "3eecfe6bd40795908c9059715ccd15c4db0df8c8ab56832cedd05caf233721b4"
+    }
+  ]
+}

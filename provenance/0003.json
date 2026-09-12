@@ -1,0 +1,28 @@
+{
+  "exerciseId": "0003",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/0003-air-bike.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/0003/frame-00.svg",
+      "sha256": "8b2b08283254dd3cfd6adede702e01eebeb895a17e23c77ceb255b07d6ee9514",
+      "sourceMasterSha256": "31b9767870db38f91b23fb4d91927dd1f41ce2cb2ce0279636160210d1c088dc"
+    },
+    {
+      "path": "assets/0003/frame-01.svg",
+      "sha256": "bba2321a50b301ea22a4554e23e7d814be14cf02df24689b4350f7ba02c149e6",
+      "sourceMasterSha256": "d6c10ae69e918908b41cad0bcee3219d0ac9c7b999b556cf67bd3b853e3b4a66"
+    },
+    {
+      "path": "assets/0003/frame-02.svg",
+      "sha256": "aa28f2d0c1120de40553da2bb73326fe9e9c1637ca8deaddc12d793671e30b3c",
+      "sourceMasterSha256": "70442637201de1903df79d540b8c52d5dcdb027bbe0d5314bf2d32aea2d32564"
+    }
+  ]
+}

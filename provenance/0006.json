@@ -1,0 +1,28 @@
+{
+  "exerciseId": "0006",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/0006-alternate-heel-touchers.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/0006/frame-00.svg",
+      "sha256": "74fe12e4702168fc7f695fce3fa86e5bb399a48e8fc2f26f1d05539140713d49",
+      "sourceMasterSha256": "a240115de4d5a2058ac540d896462f5168232c1e6aaa60764e7fe98dc6a6f86a"
+    },
+    {
+      "path": "assets/0006/frame-01.svg",
+      "sha256": "393731b323c0e65bfbfb10528c13b132d90444416bc54641a0f81ca6beb100ab",
+      "sourceMasterSha256": "00635dddc36176a1625ed444acf83160de629767d9b45cc479be4398041a7dc5"
+    },
+    {
+      "path": "assets/0006/frame-02.svg",
+      "sha256": "7a5ab2a9c7bacbcd77f1bf0ab3f6ea8832c07363b62a388e7c5a425ecc99630f",
+      "sourceMasterSha256": "d551a73be9440649cb86fb61d8194d1c99a25b85c94a9276e80af244e619e823"
+    }
+  ]
+}

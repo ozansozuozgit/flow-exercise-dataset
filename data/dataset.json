@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "releaseStage": "preview",
+  "exerciseCount": 1324,
+  "animatedExerciseCount": 1257,
+  "instructionsOnlyCount": 67,
+  "svgFrameCount": 3771,
+  "retainedPromptCount": 13,
+  "descriptionStatus": "Not included in base catalog; AI drafts, when available, are separate and unreviewed.",
+  "upstream": {
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "license": "MIT",
+    "scope": "Exercise metadata and instruction text only; no upstream media is distributed."
+  }
+}

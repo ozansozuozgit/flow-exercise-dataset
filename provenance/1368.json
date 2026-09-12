@@ -1,0 +1,28 @@
+{
+  "exerciseId": "1368",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/1368-ankle-circles.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/1368/frame-00.svg",
+      "sha256": "4cd64ae46cd20aaabfdb0795dd8d4d5644b59b9167ed87d0b5a0410e9a9c9092",
+      "sourceMasterSha256": "ae58d8ee0e2f847a8ed4f85ba8fe40b5108399957ce7d225c71b67b037915bfa"
+    },
+    {
+      "path": "assets/1368/frame-01.svg",
+      "sha256": "33ac6a57f5e5a3dc949c9264d6837f5c724798063a8bd5763538fe0a7488b02d",
+      "sourceMasterSha256": "94b46722dfa5b0096ce84dd93d168e030d0f975e53f396c0649161d1749cb199"
+    },
+    {
+      "path": "assets/1368/frame-02.svg",
+      "sha256": "00105ef36a201b429ffdae46ceb351d4081c17851f183505c2e8da69aa2a877d",
+      "sourceMasterSha256": "13075031d1aa6de011833e41392b2f93585e62d2dcfd3fce5857ab2dadcc633e"
+    }
+  ]
+}

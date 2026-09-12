@@ -1,0 +1,28 @@
+{
+  "exerciseId": "3533",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "not-retained",
+    "path": null
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/3533/frame-00.svg",
+      "sha256": "da725b173289a9d9893f387721e3790dd0f24608cb63af1e35bb51870636a5f7",
+      "sourceMasterSha256": "7edad51e0c33e8ca714bc2ffff0ef9dfe24d01c50c1d224a3345eb1deac3bfdb"
+    },
+    {
+      "path": "assets/3533/frame-01.svg",
+      "sha256": "33be15e56bfb1a7e7563d5710030b73b96bafad8fbaace3ac905a6a3853e0c94",
+      "sourceMasterSha256": "4b34228ecde050e435996618c0b4692c1e139fa2fbf7837d3a5422c43b30695d"
+    },
+    {
+      "path": "assets/3533/frame-02.svg",
+      "sha256": "bb72e3fd6aa0196f16e39793966e6d389e41b6b220def5297276d933d966a523",
+      "sourceMasterSha256": "13d1b8aca21e306f3fb8ad1421ad54138e363f849fa38892d71b5e20a9ef91c4"
+    }
+  ]
+}

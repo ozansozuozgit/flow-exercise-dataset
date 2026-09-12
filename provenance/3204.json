@@ -1,0 +1,28 @@
+{
+  "exerciseId": "3204",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/3204-arms-overhead-full-sit-up.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/3204/frame-00.svg",
+      "sha256": "754925c1c29d9540c34870134db20901e8547946df368d4b3a0a1d4b3ba212a7",
+      "sourceMasterSha256": "9ee7cc21b4af84e956584b4ab8d99cca85a3407e513f5abd4334aff15253c6a6"
+    },
+    {
+      "path": "assets/3204/frame-01.svg",
+      "sha256": "7902c80e3718aea4a6c8db3d7b497556ba888e0bd33df83da0bc94543dabd5f7",
+      "sourceMasterSha256": "a937bf8d47e24d4a04310c37cedf7e552feedf12641090827b67f371a59abbb8"
+    },
+    {
+      "path": "assets/3204/frame-02.svg",
+      "sha256": "542565e8c6323990ab900b7b013b1102f5670ee27499dca03905556f0fd4714d",
+      "sourceMasterSha256": "ef7391872fc8863c8f497d2df98f7befbb9692a3ab2bfc372c93a5b11497368e"
+    }
+  ]
+}

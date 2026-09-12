@@ -1,0 +1,28 @@
+{
+  "exerciseId": "1512",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/1512-all-fours-squad-stretch.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/1512/frame-00.svg",
+      "sha256": "6e8256af21050865b728c8d734836092a1e30708547e8a5b8793b2251220084a",
+      "sourceMasterSha256": "31bbd8d190ff0a3a542eb13556be936c3820d74494e7cb799dfa7a3494df54db"
+    },
+    {
+      "path": "assets/1512/frame-01.svg",
+      "sha256": "be94515a7a97c1856ac18e508f985fca6f1f935954537ea7b16c9f57912a6d52",
+      "sourceMasterSha256": "110d8d89754dc937a32724e01ff25bb5a353694792c629fe8787de4b6230041d"
+    },
+    {
+      "path": "assets/1512/frame-02.svg",
+      "sha256": "ee5de78535e1faf54cdb7cdb79bef0e9498dc51eff1c690ab16e7d45305755e9",
+      "sourceMasterSha256": "4b5ec1caf31dfe58c2777d43e104c46441ba8c11d6ab086a38d378bfe94a36cd"
+    }
+  ]
+}

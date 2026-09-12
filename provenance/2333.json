@@ -1,0 +1,28 @@
+{
+  "exerciseId": "2333",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/2333-arm-slingers-hanging-straight-legs.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/2333/frame-00.svg",
+      "sha256": "b39ca24954b92fd5a1fc4e05bc54be630efbab8153d55d22d0ebe2ccfc1927ef",
+      "sourceMasterSha256": "b51ee0eac1000be8a8d2c017a3e4f828e6e786745824b1fab3c95de04ec98988"
+    },
+    {
+      "path": "assets/2333/frame-01.svg",
+      "sha256": "0038f6bb484c5f4b09432618f2559a99a7cc2f8008d07c747e7c38e7ef6c3e76",
+      "sourceMasterSha256": "9f041450961f59f5a35f14e446119c7d4eda6ffe7677f16863251b37a59e7568"
+    },
+    {
+      "path": "assets/2333/frame-02.svg",
+      "sha256": "2d7bc6dc763f03c1b01a1658dd8be6d417a29ac02d98f34afa00564e2a984b00",
+      "sourceMasterSha256": "2878bf5328a7fa3ced20eabb5bb22beb5c6df06d03587e6ede5832ac086d1c24"
+    }
+  ]
+}

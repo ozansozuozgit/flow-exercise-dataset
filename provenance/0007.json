@@ -1,0 +1,28 @@
+{
+  "exerciseId": "0007",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/0007-alternate-lateral-pulldown.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/0007/frame-00.svg",
+      "sha256": "86c16c949c50f0215022b9cdc06fc1d1b96aee068352d9b719ceb9d29505a0b4",
+      "sourceMasterSha256": "51bc1126c0f262d35d2eeded930e6b6f4e048184d731f84ed94bfe71bdb1a58d"
+    },
+    {
+      "path": "assets/0007/frame-01.svg",
+      "sha256": "8d79591485414ea3aea15d4b610050115faaebbe69588924c0f19c719a4e7873",
+      "sourceMasterSha256": "461f5b09b9b923a7545ff10415abdae00e47bc99b83e1d4b7cf620b40189605a"
+    },
+    {
+      "path": "assets/0007/frame-02.svg",
+      "sha256": "b70e3c398d991282f954a797f48d4ab710444b5693e8e836c772cba997907e33",
+      "sourceMasterSha256": "c85f2f49b45c3bea5c93dc9828231e9e27ceab9720e92dcb2d771f432bbe8814"
+    }
+  ]
+}

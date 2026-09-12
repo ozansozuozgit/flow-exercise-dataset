@@ -1,0 +1,28 @@
+{
+  "exerciseId": "2355",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/2355-arm-slingers-hanging-bent-knee-legs.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/2355/frame-00.svg",
+      "sha256": "1463dbdc802922d525831b1cc494c85f1418ce56c8b1b33aa07193dce69bfa70",
+      "sourceMasterSha256": "6387988e61f5ede2b3ca62a373b9238211972058b2d99e691566a764c675b604"
+    },
+    {
+      "path": "assets/2355/frame-01.svg",
+      "sha256": "4997ef95b6470de0a61307b0b1831a84e095617b9c004b09521e14932fd05ab9",
+      "sourceMasterSha256": "f493decaa717540d866b9c6a62016716d8dd313edbb996b20e702812453df965"
+    },
+    {
+      "path": "assets/2355/frame-02.svg",
+      "sha256": "593a12fdf479b889ff832b72371e3fbbd40281bc680f1feabed1f238cd77d9fb",
+      "sourceMasterSha256": "1dd365c6f2d55f45d51f95f60ec74fe15d739ec50082e6ee9027bccdfc0dd5fb"
+    }
+  ]
+}

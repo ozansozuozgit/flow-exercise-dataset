@@ -1,0 +1,28 @@
+{
+  "exerciseId": "3214",
+  "artworkLicense": "CC0-1.0",
+  "generatorReported": "OpenAI Image Gen",
+  "promptEvidence": {
+    "status": "retained",
+    "path": "prompts/3214-arms-apart-circular-toe-touch.md"
+  },
+  "referencesRecorded": [],
+  "provenanceNotice": "Historical generation metadata, not independent proof of clean-room origin or third-party clearance. Empty references mean none recorded. No professional form review is asserted.",
+  "frames": [
+    {
+      "path": "assets/3214/frame-00.svg",
+      "sha256": "99b4456ed436cfb24017ed0f69dc86ba55156bda1ad492b21b4eb0b03ff6299a",
+      "sourceMasterSha256": "7d20ffec3043a0aa995efdcb74a546ffda23aca09f450c5a1703a23a58002a5b"
+    },
+    {
+      "path": "assets/3214/frame-01.svg",
+      "sha256": "43445f10a2670234396f8b4d2c379aae90005955bdb95401e08fb84436e6b351",
+      "sourceMasterSha256": "cb3280ccafdc2277a491c83b224674865c1f2548ee725a5ce5424c40bd6ab034"
+    },
+    {
+      "path": "assets/3214/frame-02.svg",
+      "sha256": "ac0e58c0cb048e9f08c24589728f263c55bdba772069f0a43aa5516b78c39a7c",
+      "sourceMasterSha256": "23dd37cd74709a0d5cb83f6237e2f7f39976323fcbac76f50cf298bec069a902"
+    }
+  ]
+}
