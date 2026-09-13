@@ -9,6 +9,17 @@ instructions-only exercises · 3,771 SVG frames (about 44 MB).
 This is a work-in-progress library, not professionally verified exercise
 coaching. Read [sources and limitations](NOTICE.md) before shipping it.
 
+## See the animations
+
+![Four animated examples: seated biceps curl, standing calves, triceps dip, and rear delt raise](previews/flow-exercises.gif)
+
+These loops use the published SVG frames, not new artwork. Motion is
+illustrative, not a recommended exercise tempo or verified coaching.
+
+[Still image / reduced-motion alternative](previews/flow-exercises.png) ·
+[Download the MP4 for X](previews/flow-exercises-x.mp4) ·
+[Individual GIFs and rendering details](previews/README.md)
+
 ## Download and use
 
 Clone this repository or use GitHub's **Code → Download ZIP**. No account,

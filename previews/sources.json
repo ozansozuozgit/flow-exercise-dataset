@@ -1,0 +1,78 @@
+{
+  "exerciseIds": [
+    "0390",
+    "1397",
+    "0813",
+    "2292"
+  ],
+  "sequence": [
+    0,
+    1,
+    2,
+    1
+  ],
+  "frameDurationMs": 180,
+  "sources": [
+    {
+      "id": "0390",
+      "source": "assets/0390/frame-00.svg",
+      "sha256": "a4a194c941e82a2a331d5b07482437d39f3dcd1a6d610462a945e2c001c3b40c"
+    },
+    {
+      "id": "1397",
+      "source": "assets/1397/frame-00.svg",
+      "sha256": "b5ca65cbf7cc165c278ac0df03a21e98d0698dc7ea8b2a1476828a1ab988a5c2"
+    },
+    {
+      "id": "0813",
+      "source": "assets/0813/frame-00.svg",
+      "sha256": "721fbce45bea44c6bc0893c0deb70a070b8b49c43845b343f72a15a9cc67ad2a"
+    },
+    {
+      "id": "2292",
+      "source": "assets/2292/frame-00.svg",
+      "sha256": "da8dafd485c2c0c2272ee1de4d15dcfefc5f59b3fe0bf60dd1f1cf000d22be4e"
+    },
+    {
+      "id": "0390",
+      "source": "assets/0390/frame-01.svg",
+      "sha256": "383196077770de8335c7c9c1955cb5259b918281253c2c92066c49a58cbaf69d"
+    },
+    {
+      "id": "1397",
+      "source": "assets/1397/frame-01.svg",
+      "sha256": "a684e6d77c0ed1d14f766d56bd62f526951aa2a5bb725edbd00d8ca41487689b"
+    },
+    {
+      "id": "0813",
+      "source": "assets/0813/frame-01.svg",
+      "sha256": "f0b3b64e2986a8b217f0b02064952a63b8674fd6554a67e5236dfd638c684cf5"
+    },
+    {
+      "id": "2292",
+      "source": "assets/2292/frame-01.svg",
+      "sha256": "9cd7271f3cf5a03ab8c95219d1237da5d799fb1e0b6cac60082a710919ef64a1"
+    },
+    {
+      "id": "0390",
+      "source": "assets/0390/frame-02.svg",
+      "sha256": "1a541472f7a7c8e312c5b157592e70c1486887d715f886ff14cd657feb39b2e6"
+    },
+    {
+      "id": "1397",
+      "source": "assets/1397/frame-02.svg",
+      "sha256": "828296e78e1ad8106348a42a6149ae55ac93a247e157ec5c5df65b9b7486dc66"
+    },
+    {
+      "id": "0813",
+      "source": "assets/0813/frame-02.svg",
+      "sha256": "55b0574e432d72781986b795e4e4b0e40726ba23d7eb4381a2adfe4d36976dcb"
+    },
+    {
+      "id": "2292",
+      "source": "assets/2292/frame-02.svg",
+      "sha256": "ae52c7549f9b660a086b3fe436c3c2b7098c08b42091ff65beba02fddd9a5b71"
+    }
+  ],
+  "note": "Derived from published SVGs; no new poses, interpolation, independent cropping, or coaching review."
+}
